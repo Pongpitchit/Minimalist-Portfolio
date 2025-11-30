@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'portfolio | Pongpitchit.ps',
+  title: 'Portfolio | Pongpitchit.ps',
   description: 'Portfolio of John Doe, a Full-Stack Developer specializing in modern web technologies',
   generator: 'RSU',
   icons: {
