@@ -2,46 +2,53 @@ import { ProjectCard } from './project-card'
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
+    title: 'Trello Clone',
     description:
-      'Full-stack e-commerce solution with payment integration, real-time inventory management, and admin dashboard.',
-    tags: ['Next.js', 'PostgreSQL', 'Stripe', 'Tailwind'],
-    image: '/modern-ecommerce-dashboard.png',
+      'A Trello-style task manager with boards, lists, and cards — featuring signup/login, a real-time dashboard, drag-and-drop, and collaboration tools.',
+    tags: ['Next.js', 'Node.js', 'PostgreSQL', 'Docker', 'Tailwind', 'Jenkins CI/CD'],
+    image: '/Trello-Clone.png',
   },
   {
-    title: 'Task Management App',
+    title: 'Fullstack Docker QR',
     description:
-      'Collaborative task management tool with real-time updates, team workspaces, and progress tracking.',
-    tags: ['React', 'Node.js', 'MongoDB', 'WebSocket'],
-    image: '/task-management-interface.png',
+      'A full-stack restaurant QR-code ordering system containerized with Docker. Includes authentication, dashboard, API integration, database connectivity, and a modern responsive UI.',
+    tags: ['Next.js', 'Node.js', 'Tailwind', 'TypeScript', 'Docker', 'MinIO', 'PostgreSQL 16', 'lucide-react', 'shadcn/ui'],
+    image: '/restaurant-qr-code-ordering.png',
   },
   {
-    title: 'Analytics Dashboard',
+    title: 'Portfolio Website v3',
     description:
-      'Data visualization dashboard with interactive charts, custom metrics, and export functionality.',
-    tags: ['TypeScript', 'Express', 'Chart.js', 'PostgreSQL'],
-    image: '/analytics-dashboard-charts.png',
+      'A modern portfolio website showcasing projects, skills, and contact information — built with Next.js, Tailwind CSS, and Framer Motion.',
+    tags: ['Next.js', 'Tailwind CSS', 'TypeScript'],
+    image: '/portfolio-v3.png',
   },
   {
-    title: 'Social Media API',
+    title: 'FullStack Next',
     description:
-      'RESTful API for social networking with authentication, post management, and real-time notifications.',
-    tags: ['Node.js', 'Express', 'JWT', 'Redis'],
-    image: '/api-documentation-interface.png',
+      'A full-stack Next.js application with authentication, a dynamic dashboard, API integration, Supabase database connectivity, and modern UI components.',
+    tags: ['Next.js', 'Node.js', 'Supabase', 'Tailwind', 'TypeScript'],
+    image: '/fullstack-docker.png',
   },
   {
-    title: 'Blog Platform',
+    title: 'Thailand Journey v3',
     description:
-      'Content management system with markdown support, SEO optimization, and comment moderation.',
-    tags: ['Next.js', 'MDX', 'Supabase', 'TypeScript'],
-    image: '/modern-blog-interface.jpg',
+      'A scenic travel experience across Southeast Asia and the Himalayas before reaching the spiritual heart of Tibet — built with React Native.',
+    tags: ['React Native', 'Node.js', 'Tailwind', 'TypeScript'],
+    image: '/thailand-journey-v3.png',
   },
   {
-    title: 'Weather Forecast App',
+    title: 'Fall Detection System',
     description:
-      'Real-time weather application with location services, interactive maps, and 7-day forecasts.',
-    tags: ['React', 'OpenWeather API', 'Mapbox', 'Tailwind'],
-    image: '/weather-app-interface.png',
+      'A Python-based fall detection system designed to analyze real-time movement data and trigger alerts when a fall is detected.',
+    tags: ['Python', 'AI'],
+    image: '/computer-vision-fall-detection.png',
+  },
+  {
+    title: 'Guinea Pig Care Website',
+    description:
+      'A WordPress-based website dedicated to guinea pig care tips, health guides, and proper pet management.',
+    tags: ['WordPress'],
+    image: '/guinea-pig.png',
   },
 ]
 
