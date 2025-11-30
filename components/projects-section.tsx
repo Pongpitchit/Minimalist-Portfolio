@@ -34,7 +34,7 @@ const projects = [
     description:
       'A scenic travel experience across Southeast Asia and the Himalayas before reaching the spiritual heart of Tibet — built with React Native.',
     tags: ['React Native', 'Node.js', 'Tailwind', 'TypeScript'],
-    image: '/thailand-journey-v3.png',
+    image: '/Thailand-Journey-v3.png',
   },
   {
     title: 'Fall Detection System',
