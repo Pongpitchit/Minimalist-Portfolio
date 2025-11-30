@@ -150,7 +150,7 @@ export const portfolioData = {
       image: '/Thailand-Journey-v3.png',
       description: 'Embark on a scenic route across Southeast Asia and the Himalayas, traveling through ancient cities and breathtaking alpine landscapes before reaching the spiritual heart of Tibet.',
       tech: ['React Native', 'Node.js','Tailwind', 'TypeScript'],
-      liveUrl: 'thailand-journey.vercel.app/',
+      liveUrl: 'https://thailand-journey.vercel.app/',
       githubUrl: 'https://github.com/Pongpitchit/Thailand-Journey-v3.git',
     },
     {
