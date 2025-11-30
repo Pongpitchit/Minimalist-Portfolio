@@ -147,7 +147,7 @@ export const portfolioData = {
     {
       title: 'Thailand Journey v3',
       category: 'web design',
-      image: '/thailand-journey-v3.png',
+      image: '/Thailand-Journey-v3.png',
       description: 'Embark on a scenic route across Southeast Asia and the Himalayas, traveling through ancient cities and breathtaking alpine landscapes before reaching the spiritual heart of Tibet.',
       tech: ['React Native', 'Node.js','Tailwind', 'TypeScript'],
       liveUrl: 'thailand-journey.vercel.app/',
